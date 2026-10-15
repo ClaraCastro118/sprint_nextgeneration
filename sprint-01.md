@@ -9,7 +9,7 @@
 | Product Goal selecionado | Opção 1: protótipo funcional de IA generativa que recebe um briefing, gera e valida automaticamente criativos multicanal conforme o manual de marca sintético, reduzindo o tempo de produção simulado, sem dados internos |
 | Equipe | 2 Developers em regime de hackathon (Maria Clara e Glauco) |
 | Duração da Sprint / disponibilidade real | **[INFORMAR]** (fato: submissão em 26/10; mentoria 21–23/10) |
-| Dependências técnicas | Ambiente Python, chave de API de IA em `.env`, repositório privado NextGen |
+| Dependências técnicas | Ambiente Python, chave de API de IA em `.env`, repositório privado NextGeneration |
 | DoD aplicável | `docs/definition-of-done.md` |
 
 ## 2. Sprint Goal — **decidido: opção A**
