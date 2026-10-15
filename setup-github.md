@@ -4,7 +4,7 @@
 
 ## Passo a passo
 
-1. **Criar o repositório privado.** Nome neutro, sem referência à empresa (ex.: `nextgen`). Visibilidade: **Private**. Marcar "Add a README".
+1. **Criar o repositório privado.** Nome neutro, sem referência à empresa (ex.: `nextgeneration`). Visibilidade: **Private**. Marcar "Add a README".
 2. **Criar a estrutura.** Adicionar `README.md`, `docs/visao-produto.md`, `docs/backlog.md`, `docs/definition-of-done.md`, `docs/setup-github.md`, `docs/registro-validacao-ia.md`, `docs/sprints/sprint-01.md` e `src/` (no GitHub, uma pasta só existe com um arquivo dentro: usar `src/.gitkeep`).
 3. **Convidar integrantes.** *Settings → Collaborators* (ou equivalente). Convidar apenas a equipe.
 4. **Quadro de Projects.** Criar um Project (board) com colunas: **To Do, In Progress, In Review, Done**. Vincular ao repositório.
