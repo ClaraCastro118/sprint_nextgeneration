@@ -1,4 +1,4 @@
-# NextGen — Marketing em escala com IA
+# NextGeneration — Marketing em escala com IA
 
 > Codinome do projeto. Repositório **privado**. Status: **Sprint 0** (organização e planejamento).
 
